@@ -1,0 +1,2 @@
+# StegoByte
+A steganography library
